@@ -476,7 +476,7 @@ export default function Home() {
 
 
 
-                Hey Shabnam Aapi🌸
+                Hey SIMRAN Aapi🌸
 
 
 
@@ -872,7 +872,7 @@ export default function Home() {
 
 
 
-              <h4>SHABNAM PRAVEEN</h4>
+              <h4>SIMRAN PRAVEEN</h4>
 
 
 
@@ -1188,7 +1188,7 @@ export default function Home() {
 
 
 
-                SHABNAM PRAVEEN
+                SIMRAN PRAVEEN
 
 
 
@@ -1446,7 +1446,7 @@ export default function Home() {
 
               >
 
-                Make a wish, Shabnam ✨
+                Make a wish, SIMRAN ✨
 
               </motion.h1>
 
@@ -1713,7 +1713,7 @@ export default function Home() {
                       >
                         <div className="envelope-back" />
                         <div className="envelope-paper">
-                          <span>For Shabnam 💗</span>
+                          <span>For SIMRAN Aapi 💗</span>
                         </div>
                         <div className="envelope-flap">
                           <div className="flap-inner" />
@@ -1753,7 +1753,7 @@ export default function Home() {
                         <div className="letter-paper-decoration top-right">🌷</div>
 
                         <div className="letter-paper-heading">
-                          Dear Shabnam,
+                          Dear SIMRAN Aapi,
                         </div>
 
                         <div className="letter-body">
@@ -2045,7 +2045,7 @@ export default function Home() {
               >
                 Happy Birthday,
                 <br />
-                Shabnam ❤️
+                SIMRAN Aapi ❤️
               </motion.h1>
 
               <motion.div
